@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-15 09:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🏆 Awarded a **research travel scholarship ($1,750 USD)** to present work at the **AAAI 2026 Student Abstract Track**.
